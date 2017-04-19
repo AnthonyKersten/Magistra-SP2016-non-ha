@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sharepoint2013SP1DownloadLink": {
-            "value": "https://armsandboxrepo.blob.core.windows.net/sharepoint/SW_DVD5_SharePoint_Server_2013w_SP1_64Bit_English_MLF_X19-36118.ISO"
+            "value": "https://armsandboxrepo.blob.core.windows.net/sharepoint/SW_DVD5_SharePoint_Server_2016_64Bit_English_MLF_X20-97223.ISO"
         },
         "sharepoint2013ProductKey": {
-            "value": "NQTMW-K63MQ-39G6H-B2CH9-FRDWJ"
+            "value": "NQGJR-63HC8-XCRQH-MYVCH-3J3QR"
         }
     }
 }
